@@ -10,6 +10,10 @@ Computer Graphics Project
 
 April 2022
 
+---
+
+This is a 4th year computer graphics project. My colleagues and I decided to recreate non-photorealistic rendering effects by implementing our own model viewer and shaders. It's written in LWJGL and Java Swing. The project paper can be read at https://github.com/bradley-mcfadden/3D-Model-Viewer/blob/main/LaTeX/COSC4306-Final%20Report.pdf for further information.
+
 ## Sample screenshots
 ![space-skull w contour](https://github.com/bradley-mcfadden/3D-Model-Viewer/blob/main/LaTeX/img/Combined/SpaceSkull.png?raw=true "Skull Rendered with Swapped Texture, Contours, and Diffuse Lighting")
 
